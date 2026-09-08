@@ -1,0 +1,24 @@
+{
+  "_comment": "Add email addresses OR full domains you want to allow. Domains apply to any email at that domain (e.g. 'gmail.com' allows all @gmail.com addresses). Specific emails apply to just that one address.",
+
+  "allowedDomains": [
+    "gmail.com",
+    "googlemail.com",
+    "yahoo.com",
+    "yahoo.co.uk",
+    "yahoo.co.in",
+    "outlook.com",
+    "hotmail.com",
+    "live.com",
+    "msn.com",
+    "icloud.com",
+    "me.com",
+    "mac.com",
+    "aol.com",
+    "proton.me",
+    "protonmail.com",
+    "zoho.com"
+  ],
+
+  "allowedSpecificEmails": []
+}
